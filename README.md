@@ -30,6 +30,6 @@ An Android app for copying textual data across mobile and desktop in real time
 
 #### Web App Link : https://lnkd.in/eeSqRSc
 
-#### Android App Link : https://lnkd.in/etrdeTN
+#### Android App Link(version 1) : https://lnkd.in/etrdeTN
 
 
