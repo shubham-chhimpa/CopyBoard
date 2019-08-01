@@ -1,6 +1,12 @@
 # CopyBoard
 An Android app for copying textual data across mobile and desktop in real time
 
+## Demo
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgGYmt1-51g/0.jpg)]
+
+(https://www.youtube.com/watch?v=vgGYmt1-51g)
 
 ## What is CopyBoard?
  * It is a Android App and also a Web App that allows users to share text data across Mobile and Desktop at Realtime.
